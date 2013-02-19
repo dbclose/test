@@ -9,7 +9,10 @@ public class GitMain {
 		System.out.println("XXX");
 		System.out.println("XXX");
 		System.out.println("XXX");
-		System.out.println("버그수정");
+		System.out.println("XXX");
+		System.out.println("XXX");
+		System.out.println("버그수정!!!");
+
 	}
 
 }
